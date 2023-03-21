@@ -15,5 +15,6 @@ void print-alphabet-x10(void)
 			_putchar(m);
 		}
 		_putchar('\n');
+		return (0);
 	}
 }	

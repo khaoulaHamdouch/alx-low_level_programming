@@ -4,7 +4,7 @@
   *
   *return: always 0
   */
-void print-alphabet-x10(void)
+void print_alphabet_x10(void)
 {
 	int n;
 	int m;
@@ -15,6 +15,5 @@ void print-alphabet-x10(void)
 			_putchar(m);
 		}
 		_putchar('\n');
-		return (0);
 	}
 }	

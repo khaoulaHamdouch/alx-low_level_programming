@@ -1,4 +1,4 @@
-#include "maind.h"
+#include "main.h"
 /**
   *_islower - Shows 1 if input is a lower case chararcter.
   Another cases, shows 0

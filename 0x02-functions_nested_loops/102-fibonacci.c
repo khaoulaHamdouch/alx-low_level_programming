@@ -8,9 +8,9 @@
 int main(void)
 {
 	int n;
-	unsigned int a = 0;
-	unsigned int b = 1;
-	unsigned int sum = 0;
+	unsigned long a = 0;
+	unsigned long b = 1;
+	unsigned long sum = 0;
 
 	for (n = 0; n < 50; n++)
 	{

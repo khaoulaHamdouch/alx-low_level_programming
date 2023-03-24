@@ -2,8 +2,6 @@
 /**
   *more_numbers - prints 10 times numbers from 0 to 14
   *
-  *@n: times
-  *@m: numbers
   *Return: 0
   */
 void more_numbers(void)
@@ -17,7 +15,7 @@ void more_numbers(void)
 		{
 			if (m >= 10)
 				_putchar('1');
-			_putchar (j % 10 + '0');
+			_putchar (m % 10 + '0');
 		}
 		_putchar('\n');
 	}

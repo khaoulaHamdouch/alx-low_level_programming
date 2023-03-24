@@ -2,6 +2,8 @@
 /**
   *more_numbers - prints 10 times numbers from 0 to 14
   *
+  *@n: times
+  *@m: numbers
   *Return: 0
   */
 void more_numbers(void)

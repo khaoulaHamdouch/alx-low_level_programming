@@ -5,6 +5,7 @@
   *@n: number
   *Return: 0
   */
+int square_root(int n, int i)
 int _sqrt_recursion(int n)
 {
 	if (n < 0)

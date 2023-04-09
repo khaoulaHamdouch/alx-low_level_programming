@@ -15,7 +15,6 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 	}
 	else
-	{
 		if (i > 1)
 		{
 			for (i = 1; i < argc; i++)
@@ -24,5 +23,4 @@ int main(int argc, char *argv[])
 			}
 			printf("%d\n", mul);
 		}
-	}
 }

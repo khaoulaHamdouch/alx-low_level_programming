@@ -5,6 +5,7 @@
   *most an inputted number of bytes
   *@s1: first string
   *@s2: second string
+  *@n: The maximum number of bytes of s2 to concatenate to s1
   *Return: If the function fails - NULL.
   *Otherwise - a pointer to the concatenated space in memory.
   */

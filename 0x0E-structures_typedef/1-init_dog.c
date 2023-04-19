@@ -4,6 +4,7 @@
   *init_dog - initializes a variable of typr struct dog
   *@d: a pointer to struct dog to initialize
   *@name: name
+  *@age: age
   *@owner: owner
   */
 void init_dog(struct dog *d, char *name, float age, char *owner)
